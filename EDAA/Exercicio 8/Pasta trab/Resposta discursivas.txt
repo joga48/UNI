@@ -1,0 +1,42 @@
+3-a) Na classe Aluno foi necessario referenciar ponteiros de posições anteriores e seguintes
+
+4-a)
+
+	Questão 2:
+	2b) melhor caso: Omega(1)
+	    caso medio: Theta(n)
+	    pior caso: O(n)
+
+	2c) melhor caso: Omega(1)
+	    caso medio: Theta(n)
+	    pior caso: o(n)
+
+	2d) melhor caso: Omega(n)
+	    caso medio: Theta(n)
+	    pior caso: O(n)
+
+	2e) melhor caso: Omega(n)
+	    caso medio: Theta(n)
+	    pior caso: o(n)
+
+	Questão 3:
+
+	3b) melhor caso: Omega(n)
+	    caso medio: Theta(n)
+	    pior caso: o(n)
+
+	3c) melhor caso: Omega(1)
+	    caso medio: Theta(1)
+	    pior caso: o(1)
+
+	3d) melhor caso: Omega(n)
+	    caso medio: Theta(n)
+	    pior caso: o(n)
+
+	3e) melhor caso: Omega(n)
+	    caso medio: Theta(n)
+	    pior caso: o(n)
+
+	3f) melhor caso: Omega(1)
+	    caso medio: Theta(n)
+	    pior caso: o(n)
